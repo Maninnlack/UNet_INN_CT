@@ -1,0 +1,11 @@
+average IoU of ANN:0.829881              
+average IoU of INN:0.786650              
+test dataset size:1972
+
+INN_UNet_data_cut_T
+ANN IoU:0.9609094262123108 
+INN IoU:0.9030246138572693
+
+INN_UNet_data_cut_T_max_F 
+ANN IoU:0.9609094262123108 
+INN IoU:0.9045443534851074

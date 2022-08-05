@@ -1,0 +1,18 @@
+# data
+data/
+data_cut/
+datasets_Drive/
+datasets)Drive.zip
+
+# log
+log/
+runs/
+
+# big file
+model_save/
+
+# test file 
+ANN_test.txt
+INN_test.txt
+test_ANN.jpg
+output/
